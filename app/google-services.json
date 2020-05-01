@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "315843469813",
+    "firebase_url": "https://espluongtronghai.firebaseio.com",
+    "project_id": "espluongtronghai",
+    "storage_bucket": "espluongtronghai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315843469813:android:247481e957fd118f8200bc",
+        "android_client_info": {
+          "package_name": "com.cuongdd150481.hust.esp_luongtronghai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315843469813-dj1d5jt5a1e9evr8qfn52dpakes6q4ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8F7Ampb8rgt1YMquWONcuX-ctaVSn8_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315843469813-dj1d5jt5a1e9evr8qfn52dpakes6q4ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
